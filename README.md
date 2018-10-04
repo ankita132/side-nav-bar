@@ -1,2 +1,2 @@
 # side-nav-bar
-implementation of drag and dismiss in mobile
+Implementation of drag and dismiss in mobile, improving experience in the phone using vanilla Javascript.
